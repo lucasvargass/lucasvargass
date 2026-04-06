@@ -1,28 +1,17 @@
-## Hi there 👋
-# 🚀 Lucas Vargas | Desenvolvedor Backend
+## Olá 🚀 Lucas Vargas | Desenvolvedor Backend
 
 Sou Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas, focado em evoluir diariamente até conquistar minha primeira oportunidade na área.
-
 Tenho como objetivo construir minha carreira como **Desenvolvedor de Sistemas nas Forças Armadas — Marinha do Brasil 🇧🇷⚓**
 
 ---
 
 ## 💻 Stack Principal
-- Java  
-- Spring Boot  
-- SQL  
-- MySQL  
-- JavaScript  
-- HTML5  
-- CSS  
-- React  
+Java, Spring Boot, SQL, MySQL, JavaScript, HTML5, CSS e React. 
 
 ---
 
 ## 🛠️ Ferramentas
-- IntelliJ IDEA  
-- VS Code  
-- Antigravity  
+IntelliJ, VS Code e Antigravity.  
 
 ---
 
@@ -35,7 +24,6 @@ Tenho como objetivo construir minha carreira como **Desenvolvedor de Sistemas na
 
 ## 📈 Sobre minha jornada
 Ainda estou construindo minha trajetória, mas acredito que consistência, prática e disciplina são o caminho para alcançar grandes objetivos.
-
 Cada projeto desenvolvido é mais um passo em direção à minha meta.
 
 <!--
