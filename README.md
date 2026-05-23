@@ -6,19 +6,22 @@ Tenho como objetivo construir minha carreira como **Desenvolvedor de Sistemas na
 ---
 
 ## 💻 Stack Principal
-Java, Spring Boot, SQL, MySQL, JavaScript, HTML5, CSS e React. 
+Java, Spring Boot, PostgreSQL, MySQL, Docker, 
+Angular, JavaScript, HTML5, CSS e React. 
 
 ---
 
 ## 🛠️ Ferramentas
-IntelliJ, VS Code e Antigravity.  
+IntelliJ, VS Code, Antigravity, 
+DBeaver e Postman.
 
 ---
 
 ## 📚 Em constante evolução
 - Guia Java Básico ao JR — Dev Magro  
-- Maratona Java — DevDojo  
-- Beecrowd  
+- Maratona Java — DevDojo
+- Dev Backend Java do Zero ao Spring - Gabriel Augusto
+- Beecrowd - Logica de Programação
 
 ---
 
